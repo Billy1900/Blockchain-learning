@@ -8,6 +8,9 @@
 ## Book
 - [区块链指南](https://github.com/yeasy/blockchain_guide)
 
+## Course
+- [ECE 595 information based on Blockchain system](https://ece595uwseattle.github.io/)
+
 ## Paper
 - [Academic Blockchain Papers](https://github.com/jianyu-niu/blockchain_conference_paper)
 - [Anti-Money Laundering in Bitcoin](https://github.com/Billy1900/Blockchain-learning/blob/master/Anti-Money%20Laundering%20in%20Bitcoin.pdf)
@@ -39,7 +42,6 @@
 
 ## Fabric
 - [比较全的fabric学习技术资源-个人搜集](https://github.com/Billy1900/Blockchain-learning/blob/master/Fabric/Fabric%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90.md)
-
 
 ## Cosmos
 - [Cosmos Tutorial](https://github.com/Billy1900/Blockchain-learning/tree/master/Cosmos)
