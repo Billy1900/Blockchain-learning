@@ -10,6 +10,7 @@
 
 ## Course
 - [ECE 595 information based on Blockchain system](https://ece595uwseattle.github.io/)
+- [区块链与密码学（32学时）课件](http://blockchain.whu.edu.cn/xinwendongtai/194.html)
 
 ## Paper
 - [Academic Blockchain Papers](https://github.com/jianyu-niu/blockchain_conference_paper)
